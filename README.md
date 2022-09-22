@@ -19,12 +19,11 @@
   <h3 align="center">PatronSlots</h3>
 
   <p align="center">
-    Minecraft plugin, that lets players with permission bypass the slot limit
+    Minecraft plugin, that lets players with permission bypass the slot limit.
+    It's a must have feature for every server!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Check out the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
