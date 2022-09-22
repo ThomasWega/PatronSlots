@@ -20,6 +20,7 @@
 
   <p align="center">
     Minecraft plugin, that lets players with permission bypass the slot limit.
+    <br />
     It's a must have feature for every server!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Check out the docs »</strong></a>
