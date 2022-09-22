@@ -90,7 +90,7 @@ More feautures might be added, if requested!
 
 Do you want to use this plugin on your server? Let me show you how!
 
-### Prerequisites
+### Required
 
 * Minecraft Server with 1.8 and newer
 * Java 8 and newer
