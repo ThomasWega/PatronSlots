@@ -23,12 +23,10 @@
     <br />
     It's a must have feature for every server!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Check out the docs »</strong></a>
-    <br />
+    <a href="https://github.com/ThomasWega/PatronSlot"><strong>Check out the docs »</strong></a>
+    <a href="https://github.com/ThomasWega/PatronSlot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/ThomasWega/PatronSlot/issues">Request Feature</a>
   </p>
 </div>
 
