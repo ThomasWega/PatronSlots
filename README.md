@@ -98,7 +98,7 @@ Do you want to use this plugin on your server? Let me show you how!
 
 ### Installation
 
-1. Download the plugin [https://example.com](here)
+1. Download the plugin [here](releases)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
