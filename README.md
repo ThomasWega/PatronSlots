@@ -65,7 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+PatronSlots is a minecraft plugin, that will allow certain players to bypass the slot limit. You can set your own permission and change all the messages! You may also use the included full server message, or disable it, if you wish to do so.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
