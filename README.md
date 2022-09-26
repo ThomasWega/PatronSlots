@@ -52,7 +52,7 @@ Do you want to use this plugin on your server? Let me show you how!
 
 ### Installation
 
-1. Download the plugin [here](releases)
+1. Download the plugin [here](https://github.com/ThomasWega/PatronSlots/releases)
 2. Put it in your /plugins folder
 3. You are done! :)
 
