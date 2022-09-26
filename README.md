@@ -46,9 +46,7 @@ Do you want to use this plugin on your server? Let me show you how!
 
 * Minecraft Server with 1.8 and newer
 * Java 8 and newer
-* 
 
-<br />
 
 ### Installation
 
