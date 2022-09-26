@@ -42,8 +42,6 @@ More feautures might be added, if requested!
 
 Do you want to use this plugin on your server? Let me show you how!
 
-<br />
-
 ### Required
 
 * Minecraft Server with 1.8 and newer
