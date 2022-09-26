@@ -42,10 +42,13 @@ More feautures might be added, if requested!
 
 Do you want to use this plugin on your server? Let me show you how!
 
+
+
 ### Required
 
 * Minecraft Server with 1.8 and newer
 * Java 8 and newer
+* 
 
 
 ### Installation
@@ -55,10 +58,12 @@ Do you want to use this plugin on your server? Let me show you how!
 3. You are done! :)
 
 
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 
 
 
