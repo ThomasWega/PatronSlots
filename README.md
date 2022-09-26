@@ -41,6 +41,7 @@ More feautures might be added, if requested!
 ## Getting Started
 
 Do you want to use this plugin on your server? Let me show you how!
+
 <br />
 
 ### Required
