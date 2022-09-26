@@ -69,5 +69,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Tomáš Weglarz - tomous.wega@gmail.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
