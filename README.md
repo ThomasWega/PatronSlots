@@ -35,14 +35,14 @@ Features:
 
 More feautures might be added, if requested!
 
-
-
+<br />
+    
 <!-- GETTING STARTED -->
 ## Getting Started
 
 Do you want to use this plugin on your server? Let me show you how!
 
-
+<br />
 
 ### Required
 
@@ -50,6 +50,7 @@ Do you want to use this plugin on your server? Let me show you how!
 * Java 8 and newer
 * 
 
+<br />
 
 ### Installation
 
@@ -57,15 +58,14 @@ Do you want to use this plugin on your server? Let me show you how!
 2. Put it in your /plugins folder
 3. You are done! :)
 
-
+<br />
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
+<br />
 
 <!-- CONTACT -->
 ## Contact
